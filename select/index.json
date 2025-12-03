@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "時よ",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-03T06:11:04.275536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時よ",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_時よ_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "時よ",
+      "artist": "吉田美奈子",
+      "has_synced": false,
+      "path": "select/02_時よ_吉田美奈子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時よ",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_時よ_星野源.txt"
+    }
+  ]
+}
